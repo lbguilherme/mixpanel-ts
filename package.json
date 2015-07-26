@@ -1,0 +1,11 @@
+{
+  "name": "mixpanel-ts",
+  "version": "1.0.0",
+  "description": "A simple wrapper for the Mixpanel's http api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Bernal <dev@lbguilherme.com> (http://lbguilherme.com)",
+  "license": "ISC"
+}
